@@ -1,0 +1,38 @@
+2024-11-16 09:29:13 INFO  TC001_AccountRegistationTest:17 - **** Starting TC001_AccountRegistationTest*****
+2024-11-16 09:29:13 ERROR TC001_AccountRegistationTest:53 - **** Test Failed..*****
+2024-11-16 09:29:17 INFO  TC002_LoginTest:16 - ******Starting TC002_LoginTest *********
+2024-11-16 09:31:23 INFO  TC001_AccountRegistationTest:17 - **** Starting TC001_AccountRegistationTest*****
+2024-11-16 09:31:23 ERROR TC001_AccountRegistationTest:53 - **** Test Failed..*****
+2024-11-16 09:31:26 INFO  TC002_LoginTest:16 - ******Starting TC002_LoginTest *********
+2024-11-16 09:48:41 INFO  TC001_AccountRegistationTest:17 - **** Starting TC001_AccountRegistationTest*****
+2024-11-16 09:48:41 INFO  TC001_AccountRegistationTest:25 - **** ClickonMyAccount*****
+2024-11-16 09:48:42 INFO  TC001_AccountRegistationTest:28 - **** CLickonRegister*****
+2024-11-16 09:48:42 INFO  TC001_AccountRegistationTest:32 - **** Providing customer detail*****
+2024-11-16 09:48:45 INFO  TC001_AccountRegistationTest:45 - **** Validating Expected msg*****
+2024-11-16 09:48:45 INFO  TC001_AccountRegistationTest:58 - **** Finished tc*****
+2024-11-16 09:48:48 INFO  TC002_LoginTest:16 - ******Starting TC002_LoginTest *********
+2024-11-16 09:48:50 INFO  TC002_LoginTest:40 - ******Starting TC002_LoginTest *********
+2024-11-16 09:49:25 INFO  TC001_AccountRegistationTest:17 - **** Starting TC001_AccountRegistationTest*****
+2024-11-16 09:49:26 INFO  TC001_AccountRegistationTest:25 - **** ClickonMyAccount*****
+2024-11-16 09:49:26 INFO  TC001_AccountRegistationTest:28 - **** CLickonRegister*****
+2024-11-16 09:49:26 INFO  TC001_AccountRegistationTest:32 - **** Providing customer detail*****
+2024-11-16 09:49:30 INFO  TC001_AccountRegistationTest:45 - **** Validating Expected msg*****
+2024-11-16 09:49:30 INFO  TC001_AccountRegistationTest:58 - **** Finished tc*****
+2024-11-16 09:49:33 INFO  TC002_LoginTest:16 - ******Starting TC002_LoginTest *********
+2024-11-16 09:49:35 INFO  TC002_LoginTest:40 - ******Starting TC002_LoginTest *********
+2024-11-16 10:08:42 INFO  TC001_AccountRegistationTest:17 - **** Starting TC001_AccountRegistationTest*****
+2024-11-16 10:08:43 INFO  TC001_AccountRegistationTest:25 - **** ClickonMyAccount*****
+2024-11-16 10:08:43 INFO  TC001_AccountRegistationTest:28 - **** CLickonRegister*****
+2024-11-16 10:08:44 INFO  TC001_AccountRegistationTest:32 - **** Providing customer detail*****
+2024-11-16 10:08:47 INFO  TC001_AccountRegistationTest:45 - **** Validating Expected msg*****
+2024-11-16 10:08:47 INFO  TC001_AccountRegistationTest:58 - **** Finished tc*****
+2024-11-16 10:08:50 INFO  TC002_LoginTest:16 - ******Starting TC002_LoginTest *********
+2024-11-16 10:08:52 INFO  TC002_LoginTest:40 - ******Starting TC002_LoginTest *********
+2024-11-16 10:12:45 INFO  TC001_AccountRegistationTest:17 - **** Starting TC001_AccountRegistationTest*****
+2024-11-16 10:12:46 INFO  TC001_AccountRegistationTest:25 - **** ClickonMyAccount*****
+2024-11-16 10:12:46 INFO  TC001_AccountRegistationTest:28 - **** CLickonRegister*****
+2024-11-16 10:12:46 INFO  TC001_AccountRegistationTest:32 - **** Providing customer detail*****
+2024-11-16 10:12:49 INFO  TC001_AccountRegistationTest:45 - **** Validating Expected msg*****
+2024-11-16 10:12:50 INFO  TC001_AccountRegistationTest:58 - **** Finished tc*****
+2024-11-16 10:12:53 INFO  TC002_LoginTest:16 - ******Starting TC002_LoginTest *********
+2024-11-16 10:12:55 INFO  TC002_LoginTest:40 - ******Starting TC002_LoginTest *********
